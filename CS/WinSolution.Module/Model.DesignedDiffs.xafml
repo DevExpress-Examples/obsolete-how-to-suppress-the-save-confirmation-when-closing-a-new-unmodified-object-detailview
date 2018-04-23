@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application Title="WinSolution" Logo="ExpressAppLogo">
+	<NavigationItems>
+		<Item ID="Default">
+			<Item ID="Product_ListView" Index="1" />
+			<Item ID="Vendor_ListView" Index="0" />
+		</Item>
+	</NavigationItems>
+	<Views>
+		<ListView ID="Product_ListView" AllowEdit="True" />
+		<ListView ID="Vendor_ListView" AllowEdit="True" />
+		<ListView ID="Vendor_Products_ListView" AllowEdit="True" />
+	</Views>
+</Application>
