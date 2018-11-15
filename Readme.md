@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[SuppressConfirmationForNewObjectsDetailViewController.cs](./CS/WinSolution.Module.Win/SuppressConfirmationForNewObjectsDetailViewController.cs) (VB: [SuppressConfirmationForNewObjectsDetailViewController.vb](./VB/WinSolution.Module.Win/SuppressConfirmationForNewObjectsDetailViewController.vb))**
+<!-- default file list end -->
 # How to suppress the save confirmation when closing a new unmodified object DetailView
 
 
