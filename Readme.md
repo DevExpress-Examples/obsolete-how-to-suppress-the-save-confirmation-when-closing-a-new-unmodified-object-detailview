@@ -6,7 +6,7 @@
 
 
 **==============================**  
-**With XAF v19.2, we no longer show the save confirmation dialog when a user closes DetailView for a new unmodified object in a WinForms application. For more information, see [BC5122 - WinForms - The save confirmation dialog is not shown when closing DetailView for a new unmodified object](https://community.devexpress.com/forums/p/111817/381394.aspx).**
+**With XAF v19.2, we no longer show the save confirmation dialog when a user closes DetailView for a new unmodified object in a WinForms application. For more information, see [BC5122 - WinForms - The save confirmation dialog is not shown when closing DetailView for a new unmodified object](https://community.devexpress.com/forums/p/111817/381394.aspx).**   
 **==============================**  
 
 **Scenario**  
