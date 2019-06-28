@@ -21,10 +21,6 @@ The information below is still valid for versions prior to v19.2.**
 
 To enable this feature in the older version, copy the _WinSolution.Module.Win\SuppressConfirmationForNewObjectsDetailViewController.xx_ file into _YourSolutionName.Module.Win_ project.
 
-**Your feedback is needed!**  
-We are hesitating to include the current implementation by default, because there are many ways to instantiate new objects in Views and it many cases it is difficult to uniquely state that an object is "untouched". For instance, you may have custom initialization code in the AfterConstruction or OnActivated methods of your business class or Controller, in the ObjectCreating, CustomCloneObject, ActionBase's Execute or other event handlers of standard and custom XAF UI entities.  
-You and other readers can help us decide faster if you share your thoughts on whether this logic should cover any internal programmatic changes to objects (including Actions!) or should only consider a user touching data editors by hand. Thanks in advance.   
-
 **See Also:**  
 [WinModificationsController Class](http://documentation.devexpress.com/#Xaf/clsDevExpressExpressAppWinSystemModuleWinModificationsControllertopic)
 [ModificationsController.ModificationsHandlingMode](http://documentation.devexpress.com/#Xaf/DevExpressExpressAppSystemModuleModificationsController_ModificationsHandlingModetopic)
